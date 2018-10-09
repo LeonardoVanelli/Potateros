@@ -1,0 +1,15 @@
+.espaco_patotas{
+	margin-top: 15px;
+}
+
+#patotas_marcadas h5{
+	margin-bottom:20px;
+}
+
+#patotas_marcadas >div {
+margin-bottom: 20px;
+}
+
+body {
+	background: beige;
+}
