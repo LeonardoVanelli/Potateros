@@ -1,7 +1,3 @@
-.espaco_patotas{
-	margin-top: 15px;
-}
-
 #patotas_marcadas h5{
 	margin-bottom:20px;
 }
@@ -10,6 +6,17 @@
 margin-bottom: 20px;
 }
 
+#patotas_marcadas a{
+	font-size: 18px;
+	color: black;
+	font-weight: 500;
+	background-color: white;
+}
+
 body {
 	background: beige;
+}
+
+#cabecalio >div{
+	color:#264f87;
 }
