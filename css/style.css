@@ -4,10 +4,15 @@
 
 #patotas_marcadas >div {
 margin-bottom: 20px;
+
 }
 
 #patotas_marcadas ul {
 	margin: 0px;
+}
+
+.yellow_dark{
+	background-color: #d2c006;
 }
 
 #patotas_marcadas a{
@@ -18,8 +23,8 @@ margin-bottom: 20px;
 	text-align: center
 }
 
-#patotas_marcadas {
-	margin-top: 57px
+#patotas_marcadas  {
+	margin-top: 70px;
 }
 
 #nova-patota {
@@ -29,11 +34,11 @@ margin-bottom: 20px;
 }
 
 body {
-	background: beige;
+	background: white;
 }
 
-#cabecalio > div > div{
-	color:#264f87;
+#cabecalio {
+	background: #4caf50;
 }
 
 #cabecalio {
